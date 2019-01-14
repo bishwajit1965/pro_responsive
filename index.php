@@ -18,6 +18,16 @@
                 </div>
                 <div class="col-sm-9 right-sidebar">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit officiis consequatur nobis quos commodi esse, maiores libero quidem ducimus dignissimos voluptate sed. Culpa enim nemo vero saepe tempora libero incidunt!</p>
+                    <div class="d-flex flex-row bd-highlight mb-3">
+                        <div class="p-2 bd-highlight">Flex item 1</div>
+                        <div class="p-2 bd-highlight">Flex item 2</div>
+                        <div class="p-2 bd-highlight">Flex item 3</div>
+                    </div>
+                    <div class="d-flex flex-row-reverse bd-highlight">
+                        <div class="p-2 bd-highlight">Flex item 1</div>
+                        <div class="p-2 bd-highlight">Flex item 2</div>
+                        <div class="p-2 bd-highlight">Flex item 3</div>
+                    </div>
                 </div>
             </div>
         </div>
