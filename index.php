@@ -14,6 +14,7 @@
             <h2>Responsive web page design</h2>
             <div class="row">
                 <div class="col-sm-3 left-sidebar">
+                    <p>Recently added</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae laudantium aperiam animi totam quia, magnam, quas, sunt numquam fugit magni optio amet deserunt necessitatibus? Hic minus esse voluptas similique ipsa.</p>
                 </div>
                 <div class="col-sm-9 right-sidebar">
