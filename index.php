@@ -28,6 +28,12 @@
                         <div class="p-2 bd-highlight">Flex item 2</div>
                         <div class="p-2 bd-highlight">Flex item 3</div>
                     </div>
+
+                    <div class="d-flex text-white">
+                        <div class="p-2 bg-info">Flex item 1 gjhgjhgj</div>
+                        <div class="p-2 bg-warning">Flex item 2</div>
+                        <div class="p-2 bg-primary flex-grow-1">Flex item 3</div>
+                    </div>
                 </div>
             </div>
         </div>
